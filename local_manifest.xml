@@ -8,7 +8,7 @@
         <project remote="gh" name="isaiahplayground/proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" revision="fourteen" />
         <project remote="gh" name="isaiahplayground/android_device_xiaomi_vili" revision="fourteen" path="device/xiaomi/vili" />
         <project remote="gh" name="isaiahplayground/android_device_xiaomi_8350-common" revision="fourteen" path="device/xiaomi/sm8350-common" />
-        <project remote="gh" name="isaiahplayground/kernel_xiaomi_sm6375" revision="fourteen" path="kernel/xiaomi/sm8350" />
+        <project remote="gh" name="isaiahplayground/kernel_xiaomi_sm8350" revision="fourteen" path="kernel/xiaomi/sm8350" />
         <project remote="gh" name="PixelOS-AOSP/hardware_xiaomi" revision="fourteen" path="hardware/xiaomi" />
 
 </manifest>
