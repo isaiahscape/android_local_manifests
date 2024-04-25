@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest>
+<manifest>         
+        <remote name="gh-pg" fetch="https://github.com/isaiahplayground" revision="fourteen" />
+        <remote name="gh" fetch="https://github.com" />
           
-        <remote name="gh" fetch="https://github.com">
-        
-          <!-- Sync trees -->
-        <project remote="gh" name="isaiahplayground/proprietary_vendor_xiaomi_vili" path="vendor/xiaomi/vili" revision="fourteen" />
-        <project remote="gh" name="isaiahplayground/proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" revision="fourteen" />
-        <project remote="gh" name="isaiahplayground/android_device_xiaomi_vili" revision="fourteen" path="device/xiaomi/vili" />
-        <project remote="gh" name="isaiahplayground/android_device_xiaomi_8350-common" revision="fourteen" path="device/xiaomi/sm8350-common" />
-        <project remote="gh" name="isaiahplayground/kernel_xiaomi_sm8350" revision="fourteen" path="kernel/xiaomi/sm8350" />
-        <project remote="gh" name="PixelOS-AOSP/hardware_xiaomi" revision="fourteen" path="hardware/xiaomi" />
-
+        <project remote="gh-pg" name="proprietary_vendor_xiaomi_vili" path="vendor/xiaomi/vili" />
+        <project remote="gh-pg" name="proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" />
+        <project remote="gh-pg" name="android_device_xiaomi_vili" path="device/xiaomi/vili" />
+        <project remote="gh-pg" name="android_device_xiaomi_8350-common" path="device/xiaomi/sm8350-common" />
+        <project remote="gh-pg" name="kernel_xiaomi_sm8350" path="kernel/xiaomi/sm8350" />
+        <project remote="gh" name="PixelOS-AOSP/hardware_xiaomi" path="hardware/xiaomi" />
 </manifest>
