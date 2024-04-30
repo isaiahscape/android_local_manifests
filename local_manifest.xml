@@ -8,6 +8,5 @@
         <project remote="gh-pg" name="android_device_xiaomi_vili" path="device/xiaomi/vili" />
         <project remote="gh-pg" name="android_device_xiaomi_sm8350-common" path="device/xiaomi/sm8350-common" />
         <project remote="gh-pg" name="kernel_xiaomi_sm8350" path="kernel/xiaomi/sm8350" />
-        <project remote="gh-pg" name="switchoff_stuffs" path="swiitchoff/stuffs" />
         <project remote="gh" name="PixelOS-AOSP/hardware_xiaomi" path="hardware/xiaomi" revision="fourteen" />
 </manifest>
