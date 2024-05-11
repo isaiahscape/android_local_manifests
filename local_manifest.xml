@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>         
-        <remote name="gh-pg" fetch="https://github.com/isaiahplayground" revision="fourteen" />
+        <remote name="gh-pg" fetch="https://github.com/isaiahplayground" revision="lineage-21" />
         <remote name="gh" fetch="https://github.com" />
           
         <project remote="gh-pg" name="proprietary_vendor_xiaomi_vili" path="vendor/xiaomi/vili" />
