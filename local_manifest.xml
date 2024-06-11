@@ -12,6 +12,4 @@
         <project remote="gh" name="isaiahscape/signing-script" revision="main" path="signing-script" />
         <project remote="gh" name="isaiahplayground/android_kernel_xiaomi_sm6375" revision="main" path="kernel/xiaomi/sm6375" />
         <project remote="gh" name="isaiahplayground/android_device_xiaomi_veux-kernel" revision="fourteen" path="device/xiaomi/veux-kernel" />
-        <project remote="gh" name="PixelOS-AOSP/hardware_xiaomi" revision="fourteen" path="hardware/xiaomi" />
-
 </manifest>
